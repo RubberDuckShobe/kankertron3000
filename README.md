@@ -2,6 +2,8 @@
 
 Gratis saus
 
+Obtain your gratis saus and kanker [here](https://penis.download) (also comes with free penis)
+
 ## This bot runs with
 
 - Node.js 14 LTS (Hosted on GCP)
